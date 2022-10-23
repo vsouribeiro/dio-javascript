@@ -1,4 +1,4 @@
-# Warburg Pincus
+# Bootcamp Warburg Pincus
 
 ## Javascript na DIO
 
